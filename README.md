@@ -38,7 +38,7 @@ Software Engineer • AI Systems Builder • Full Stack & Android Developer
 ---
 
 <p align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+ <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"height="200"/>
 </p>
 
 ---
