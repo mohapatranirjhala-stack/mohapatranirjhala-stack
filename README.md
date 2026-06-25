@@ -3,106 +3,134 @@
 <h1 align="center">Nirjhala Mohapatra</h1>
 
 <h3 align="center">
-Full Stack Developer • Android Engineer • AI Systems Builder
+Software Engineer • AI Systems Builder • Full Stack & Android Developer
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohapatranirjhala-stack&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="170"/>
-</p>
+---
+
+## 🧭 Engineering Identity
+
+I design and build **AI-driven software systems that convert real-world workflows into automated, data-driven experiences**.
+
+My work focuses on bridging the gap between:
+- Human problems → structured system design
+- Raw data → actionable intelligence
+- Manual workflows → AI-assisted automation
+
+I operate across **AI, backend systems, and mobile engineering**, with a focus on scalable architecture and production-grade design.
 
 ---
 
-## ⚡ Engineering Profile
+## 🧠 Core Competencies
 
-I am a **Full Stack & Android Developer** focused on building **AI-powered applications and real-world production systems** that solve practical user problems.
+### System Design & Backend Engineering
+- RESTful API architecture
+- Data modeling & system decomposition
+- Scalable backend workflows
+- Real-time cloud systems (Firebase / Firestore)
 
-My work spans across:
+### AI Engineering
+- LLM-powered reasoning pipelines
+- Resume parsing & skill extraction systems
+- Job matching & recommendation logic
+- Prompt-driven decision systems
 
-- 🤖 AI-driven backend systems (Resume intelligence, job matching, career automation)
-- 📱 Android applications with Firebase integration and real-time data sync
-- ⚙️ Full-stack web applications using modern JavaScript frameworks
-- 📊 Data-driven features like analytics dashboards, scoring engines, and recommendations
-
-I enjoy transforming **complex workflows into simple, automated user experiences**, especially in areas like:
-- Career development & job discovery
-- Personal finance tracking & analytics
-- AI-based decision support systems
-
----
-
-## 🧠 Tech Stack
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+### Mobile Engineering
+- Android applications with Firebase backend
+- Real-time sync architecture
+- Analytics-driven UI systems
+- Offline + cloud hybrid design
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Tech Stack
+
+**Frontend / Full Stack**
+Next.js • React • TypeScript
+
+**Backend**
+Node.js • Firebase Functions • REST APIs
+
+**AI Layer**
+Groq LLM • Prompt pipelines • NLP-based parsing
+
+**Database**
+Firebase Firestore • MongoDB
+
+**Mobile**
+Kotlin • Android SDK • Firebase Auth
+
+**Deployment**
+Vercel • GitHub Actions
 
 ---
 
-### 🤖 AI Career Copilot (Flagship AI System)
+# 🚀 Selected Systems (Not Just Projects)
 
-> AI-powered career intelligence platform that transforms resumes into actionable career paths.
+---
 
-**Problem**
-Most candidates struggle to understand resume rejection, skill gaps, and career direction.
+## 🤖 AI Career Copilot — Career Intelligence System
 
-**Solution**
-- Resume parsing & skill extraction using AI
-- ATS scoring engine for resume evaluation
-- Job-role matching system
-- Real-time job recommendations (JSearch API)
-- AI-generated career roadmap
+A **workflow automation system that transforms resumes into structured career decisions using AI + backend logic**.
 
-**Impact**
-- Converts resumes into structured career intelligence
-- Provides clear career direction and improvement steps
-- Bridges gap between skills and job market demand
+### Problem
+Job seekers lack structured feedback on:
+- resume rejection reasons
+- missing skill gaps
+- unclear career direction
 
-**Tech Stack**
-Next.js • TypeScript • Firebase • Groq AI • Vercel • REST APIs
+### System Design
+- Resume ingestion & parsing engine
+- AI-based skill extraction (LLM pipeline)
+- ATS scoring system (multi-factor evaluation model)
+- Job-role matching engine
+- Real-time job market ingestion (JSearch API)
+- Career roadmap generation engine
 
-🔗 Live Demo:  
+### Engineering Outcome
+Transforms static resumes into:
+> dynamic career intelligence system
+
+### Stack
+Next.js • TypeScript • Firebase • Groq AI • APIs • Vercel
+
+🔗 Live System  
 https://ai-career-copilot-pwyh9noes-nirjhala-mohapatra-s-projects.vercel.app/
 
 ---
 
-### 📱 Expense Tracker Android App
+## 📱 Expense Tracker — Financial Behavior System
 
-> Smart personal finance management system with real-time analytics.
+An **event-driven mobile analytics system for personal finance tracking and behavioral insights**.
 
-**Problem**
-Users lack visibility into spending habits and budget control.
+### Problem
+Users lack visibility into:
+- spending patterns
+- budget violations
+- financial behavior trends
 
-**Solution**
-- Firebase authentication system
-- Real-time expense tracking with Firestore
-- Category-wise analytics engine
-- Budget tracking system
-- Charts for financial insights
-- PDF report generation
+### System Design
+- Firebase authentication + user state system
+- Firestore real-time transaction pipeline
+- Category-based classification engine
+- Budget constraint tracking system
+- Analytics + visualization pipeline
+- PDF reporting engine
 
-**Impact**
-- Helps users track and control expenses effectively
-- Converts raw financial data into insights
-- Improves budgeting discipline
+### Engineering Outcome
+Transforms raw transactions into:
+> financial decision intelligence system
 
-**Tech Stack**
-Kotlin • Firebase • Firestore • MPAndroidChart • Android SDK
+### Stack
+Kotlin • Firebase • Firestore • Android SDK • MPAndroidChart
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 Engineering Signals (GitHub)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohapatranirjhala-stack&show_icons=true&theme=tokyonight" height="180"/>
@@ -111,24 +139,23 @@ Kotlin • Firebase • Firestore • MPAndroidChart • Android SDK
 
 ---
 
-## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohapatranirjhala-stack&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🧠 Engineering Mindset
+# 🧠 Engineering Philosophy
 
-- I build **systems, not just applications**
-- Focus on **AI + backend + mobile integration**
-- Strong emphasis on **real-world problem solving**
-- Think in terms of **scalable architecture and user impact**
+- Build **systems that reflect real-world workflows**
+- Prefer **architecture over features**
+- Use AI as a **decision layer, not a UI feature**
+- Design for **scalability, not demos**
+- Think in terms of **end-to-end systems, not screens**
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
 - 📧 Email: **mohapatranirjhala@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/nirjhala-mohapatra
@@ -137,5 +164,5 @@ Kotlin • Firebase • Firestore • MPAndroidChart • Android SDK
 ---
 
 <p align="center">
-  Built with focus on engineering clarity, real-world impact, and system thinking.
+Systems over apps. Intelligence over interfaces. Engineering over aesthetics.
 </p>
