@@ -1,32 +1,49 @@
 <!-- ================= HERO ================= -->
-
 <div align="center">
 
+<!-- Animated gradient banner -->
 <div style="
-  background: linear-gradient(90deg, #0d6efd, #0a58ca);
-  padding: 18px 30px;
-  border-radius: 12px;
+  background: linear-gradient(270deg, #0d6efd, #6610f2, #0dcaf0);
+  background-size: 600% 600%;
+  animation: gradientMove 8s ease infinite;
+  padding: 22px 35px;
+  border-radius: 16px;
   display: inline-block;
+  box-shadow: 0 0 25px rgba(13,110,253,0.6);
 ">
 
 <h1 style="
   color: white;
-  font-size: 34px;
+  font-size: 40px;
   margin: 0;
-  font-family: 'Fira Code', monospace;
+  font-weight: 800;
+  letter-spacing: 1px;
+  font-family: 'Segoe UI', sans-serif;
+  text-shadow: 0px 0px 10px rgba(255,255,255,0.6);
 ">
   Nirjhala Mohapatra
 </h1>
 
 </div>
 
-</div>
-
+<!-- Subtitle typing effect -->
 <h3 align="center">
-Software Engineer • AI Systems Builder • Full Stack & Android Developer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+•+AI+Systems+Builder+•+Full+Stack+%26+Android+Developer" />
 </h3>
 
----
+</div>
+
+<!-- animation keyframes (GitHub supports this in markdown HTML) -->
+<style>
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+
+
 
 <!-- ================= CONTACT + SOCIAL (MOVED TO TOP) ================= -->
 
@@ -55,7 +72,7 @@ Software Engineer • AI Systems Builder • Full Stack & Android Developer
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/7J4P7cUur2DlE/giphy.gif" height="220"/>
 </p>
 
 ---
