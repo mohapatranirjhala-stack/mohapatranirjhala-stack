@@ -10,127 +10,130 @@ Software Engineer • AI Systems Builder • Full Stack & Android Developer
   <img src="https://komarev.com/ghpvc/?username=mohapatranirjhala-stack&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+</p>
+
 ---
 
 ## 🧭 Engineering Identity
 
 I design and build **AI-driven software systems that convert real-world workflows into automated, data-driven experiences**.
 
-My work focuses on bridging the gap between:
-- Human problems → structured system design
-- Raw data → actionable intelligence
-- Manual workflows → AI-assisted automation
-
-I operate across **AI, backend systems, and mobile engineering**, with a focus on scalable architecture and production-grade design.
+My focus is on building systems that go beyond UI and operate at the level of:
+- intelligent decision-making
+- workflow automation
+- scalable backend architecture
 
 ---
 
-## 🧠 Core Competencies
+## 🧠 Core Engineering Areas
 
-### System Design & Backend Engineering
-- RESTful API architecture
-- Data modeling & system decomposition
-- Scalable backend workflows
-- Real-time cloud systems (Firebase / Firestore)
-
-### AI Engineering
-- LLM-powered reasoning pipelines
-- Resume parsing & skill extraction systems
-- Job matching & recommendation logic
-- Prompt-driven decision systems
-
-### Mobile Engineering
-- Android applications with Firebase backend
-- Real-time sync architecture
-- Analytics-driven UI systems
-- Offline + cloud hybrid design
+- AI-powered system design (LLM pipelines, reasoning systems)
+- Backend architecture (REST APIs, Firebase, scalable services)
+- Android development (real-time, cloud-connected applications)
+- Data-driven systems (analytics, scoring engines, recommendations)
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Frontend / Full Stack**
-Next.js • React • TypeScript
-
-**Backend**
-Node.js • Firebase Functions • REST APIs
-
-**AI Layer**
-Groq LLM • Prompt pipelines • NLP-based parsing
-
-**Database**
-Firebase Firestore • MongoDB
-
-**Mobile**
-Kotlin • Android SDK • Firebase Auth
-
-**Deployment**
-Vercel • GitHub Actions
+### 💻 Frontend / Full Stack
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+</p>
 
 ---
 
-# 🚀 Selected Systems (Not Just Projects)
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🤖 AI / Intelligence Layer
+<p>
+<img src="https://img.shields.io/badge/Groq%20LLM-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP%20Pipelines-blueviolet?style=for-the-badge"/>
+</p>
+
+---
+
+### 📱 Mobile Development
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/Firebase%20Auth-orange?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Database / Cloud
+<p>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+</p>
+
+---
+
+### 🚀 Deployment
+<p>
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+</p>
+
+---
+
+# 🚀 Selected Systems (Production-Level Work)
 
 ---
 
 ## 🤖 AI Career Copilot — Career Intelligence System
 
-A **workflow automation system that transforms resumes into structured career decisions using AI + backend logic**.
+A production-grade AI system that transforms resumes into structured career intelligence.
 
-### Problem
-Job seekers lack structured feedback on:
-- resume rejection reasons
-- missing skill gaps
-- unclear career direction
-
-### System Design
+### System Breakdown
 - Resume ingestion & parsing engine
 - AI-based skill extraction (LLM pipeline)
-- ATS scoring system (multi-factor evaluation model)
+- ATS scoring system (multi-factor evaluation)
 - Job-role matching engine
-- Real-time job market ingestion (JSearch API)
+- Real-time job market integration
 - Career roadmap generation engine
 
 ### Engineering Outcome
 Transforms static resumes into:
-> dynamic career intelligence system
+> dynamic career decision systems
 
-### Stack
-Next.js • TypeScript • Firebase • Groq AI • APIs • Vercel
-
-🔗 Live System  
+🔗 Live:
 https://ai-career-copilot-pwyh9noes-nirjhala-mohapatra-s-projects.vercel.app/
 
 ---
 
-## 📱 Expense Tracker — Financial Behavior System
+## 📱 Expense Tracker — Financial Intelligence System
 
-An **event-driven mobile analytics system for personal finance tracking and behavioral insights**.
+A real-time Android system for tracking financial behavior and spending analytics.
 
-### Problem
-Users lack visibility into:
-- spending patterns
-- budget violations
-- financial behavior trends
-
-### System Design
-- Firebase authentication + user state system
-- Firestore real-time transaction pipeline
-- Category-based classification engine
-- Budget constraint tracking system
-- Analytics + visualization pipeline
-- PDF reporting engine
+### System Breakdown
+- Firebase authentication system
+- Real-time Firestore transaction pipeline
+- Category classification engine
+- Budget tracking constraints system
+- Analytics + visualization engine
+- PDF report generation pipeline
 
 ### Engineering Outcome
-Transforms raw transactions into:
-> financial decision intelligence system
-
-### Stack
-Kotlin • Firebase • Firestore • Android SDK • MPAndroidChart
+Transforms raw financial data into:
+> behavioral financial intelligence system
 
 ---
 
-# 📊 Engineering Signals (GitHub)
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohapatranirjhala-stack&show_icons=true&theme=tokyonight" height="180"/>
@@ -147,11 +150,10 @@ Kotlin • Firebase • Firestore • Android SDK • MPAndroidChart
 
 # 🧠 Engineering Philosophy
 
-- Build **systems that reflect real-world workflows**
-- Prefer **architecture over features**
-- Use AI as a **decision layer, not a UI feature**
-- Design for **scalability, not demos**
-- Think in terms of **end-to-end systems, not screens**
+- Build systems, not screens
+- Design for scalability and automation
+- Use AI as a decision layer, not a feature
+- Think in workflows, not components
 
 ---
 
@@ -164,5 +166,5 @@ Kotlin • Firebase • Firestore • Android SDK • MPAndroidChart
 ---
 
 <p align="center">
-Systems over apps. Intelligence over interfaces. Engineering over aesthetics.
+Systems over features. Engineering over aesthetics. Impact over UI.
 </p>
