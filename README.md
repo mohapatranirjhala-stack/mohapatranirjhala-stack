@@ -137,8 +137,7 @@ Transforms static resumes into:
 > dynamic career decision systems
 
 🔗 Live:
-https://ai-career-copilot-pwyh9noes-nirjhala-mohapatra-s-projects.vercel.app/
-
+https://ai-career-copilot-lkxk88bz1-nirjhala-mohapatra-s-projects.vercel.app/
 ---
 
 ## 📱 Expense Tracker — Financial Intelligence System
