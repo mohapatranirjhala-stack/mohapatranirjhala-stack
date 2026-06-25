@@ -183,14 +183,18 @@ Transforms raw financial data into:
 
 ---
 
-# 📬 Contact
+# 🚀 Open to Opportunities
 
-- 📧 Email: **mohapatranirjhala@gmail.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/nirjhala-mohapatra
-- 🔗 GitHub: https://github.com/mohapatranirjhala-stack
+💬 Open to Software Engineering & AI Roles
+
+I’m actively interested in building production-grade systems involving:
+- AI-powered applications
+- Backend & distributed systems
+- Full stack SaaS platforms
+- Android + cloud-connected applications
 
 ---
 
 <p align="center">
-Systems over features. Engineering over aesthetics. Impact over UI.
+  “Systems over features. Execution over ideas.”
 </p>
