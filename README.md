@@ -1,14 +1,40 @@
 <!-- ================= HERO ================= -->
 
-<h1 align="center">Nirjhala Mohapatra</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Nirjhala+Mohapatra" />
+</h1>
 
 <h3 align="center">
 Software Engineer • AI Systems Builder • Full Stack & Android Developer
 </h3>
 
+---
+
+<!-- ================= CONTACT + SOCIAL (MOVED TO TOP) ================= -->
+
+<p align="center">
+  <a href="mailto:mohapatranirjhala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/nirjhala-mohapatra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/mohapatranirjhala-stack">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohapatranirjhala-stack&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mohapatranirjhala-stack?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/mohapatranirjhala-stack?label=Stars&style=social" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
