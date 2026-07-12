@@ -178,9 +178,7 @@ Transforms static PDF documents into:
 
 > AI-powered searchable knowledge systems with contextual question answering.
 
-### 🔗 Repository
-https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
-🔗 Live:
+
 # 📄 AI Document Intelligence
 
 An AI-powered document analysis platform that enables users to summarize documents, chat with PDFs using Retrieval-Augmented Generation (RAG), extract insights, compare documents, and process scanned PDFs using OCR.
