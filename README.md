@@ -56,10 +56,12 @@ My focus is on building systems that go beyond UI and operate at the level of:
 
 ## 🧠 Core Engineering Areas
 
-- AI-powered system design (LLM pipelines, reasoning systems)
+- AI-powered software systems (LLMs, RAG, Agentic AI)
+- Intelligent document processing & semantic search
 - Backend architecture (REST APIs, Firebase, scalable services)
-- Android development (real-time, cloud-connected applications)
-- Data-driven systems (analytics, scoring engines, recommendations)
+- Android development (cloud-connected applications)
+- Full Stack SaaS applications
+- Data-driven analytics and recommendation systems
 
 ---
 
@@ -83,11 +85,16 @@ My focus is on building systems that go beyond UI and operate at the level of:
 
 ---
 
-### 🤖 AI / Intelligence Layer
+### 🤖 AI / GenAI Stack
+
 <p>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Groq%20LLM-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP%20Pipelines-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
@@ -141,6 +148,39 @@ Transforms static resumes into:
 https://ai-career-copilot-bsxqxp6pq-nirjhala-mohapatra-s-projects.vercel.app/
 ---
 
+---
+
+# 📄 AI Document Intelligence — AI-Powered Document Analysis Platform
+
+An end-to-end AI application that transforms PDF documents into interactive knowledge bases using Retrieval-Augmented Generation (RAG), semantic search, OCR, and Large Language Models.
+
+### 🔹 System Breakdown
+- PDF ingestion and intelligent text extraction
+- AI-powered document summarization
+- Retrieval-Augmented Generation (RAG) pipeline
+- Semantic search using FAISS vector database
+- OCR support for scanned PDF documents
+- Conversational chat with uploaded documents
+- Context-aware question answering using Groq LLM
+
+### 🛠 Tech Stack
+- Python
+- Streamlit
+- LangChain
+- FAISS
+- Hugging Face Embeddings
+- Groq LLM
+- OpenRouter
+- OCR
+
+### 🚀 Engineering Outcome
+Transforms static PDF documents into:
+
+> AI-powered searchable knowledge systems with contextual question answering.
+
+### 🔗 Repository
+https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
+
 ## 📱 Expense Tracker — Financial Intelligence System
 
 A real-time Android system for tracking financial behavior and spending analytics.
@@ -187,11 +227,13 @@ Transforms raw financial data into:
 
 💬 Open to Software Engineering & AI Roles
 
-I’m actively interested in building production-grade systems involving:
-- AI-powered applications
-- Backend & distributed systems
-- Full stack SaaS platforms
-- Android + cloud-connected applications
+I’m actively seeking Software Engineering, AI Engineering, and Full Stack Development opportunities where I can contribute to building scalable products involving:
+- Generative AI & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- AI-powered Document Intelligence
+- Backend & Distributed Systems
+- Full Stack SaaS Platforms
+- Android & Cloud-connected Applications
 
 ---
 
