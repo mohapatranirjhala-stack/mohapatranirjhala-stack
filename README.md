@@ -91,7 +91,17 @@ My focus is on building systems that go beyond UI and operate at the level of:
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq%20LLM-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/OpenRouter-6C47FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+<img src="https://img.shields.io/badge/PDF%20Processing-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ATS%20Scoring-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Resume%20Parsing-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-3949AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OCR-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge"/>
@@ -147,6 +157,75 @@ Transforms static resumes into:
 🔗 Live:
 https://ai-career-copilot-bsxqxp6pq-nirjhala-mohapatra-s-projects.vercel.app/
 ---
+
+
+---
+---
+
+# 📄 AI Resume Screener — AI-Powered Recruitment Intelligence Platform
+
+An enterprise-grade AI recruitment platform that automates resume screening, ATS evaluation, candidate ranking, resume optimisation, and recruiter decision-making through a scalable Multi-LLM architecture.
+
+### 🔹 System Breakdown
+
+- AI-powered ATS scoring engine
+- Resume parsing and intelligent content extraction
+- Semantic skill matching with Job Description
+- Candidate ranking and leaderboard generation
+- Resume validation engine
+- AI Resume Optimiser
+- AI Resume Rewriter
+- Candidate strengths & weaknesses analysis
+- Resume improvement suggestions
+- Recruiter recommendation engine
+- Hiring decision assistance
+- Multi-LLM workload orchestration (Google Gemini, OpenRouter & Groq)
+
+### 🛠 Tech Stack
+
+- Python
+- Streamlit
+- Google Gemini
+- OpenRouter
+- Groq
+- Pandas
+- NumPy
+- Plotly
+- PyMuPDF
+- pdfplumber
+- python-docx
+- Prompt Engineering
+
+### 🚀 Engineering Outcome
+
+Transforms traditional resume screening into an AI-powered recruitment intelligence platform capable of analysing, ranking, validating, optimising, and recommending candidates using advanced Large Language Models and ATS-based evaluation.
+
+## ✨ Key Features
+
+- 📄 Upload multiple resumes
+- 🎯 ATS Score Calculation
+- 📊 Recruiter Dashboard
+- 🏆 Candidate Leaderboard
+- 🤖 AI Recruiter Analysis
+- 💬 Resume Feedback Generation
+- 📈 Skill Gap Analysis
+- ✍️ AI Resume Optimiser
+- ✅ Resume Validation
+- 📝 AI Resume Rewriter
+- 📋 Candidate Summary Generation
+- 📄 Overleaf/LaTeX Resume Generation
+- 👔 Hiring Decision Support
+- ⚡ Multi-LLM AI Architecture
+
+## 🌐 Live Demo
+
+**🚀 Live Application**
+
+https://ai-resume-screener-m4hmtfdj4mai8jyygqxhb8.streamlit.app/
+
+**💻 GitHub Repository**
+
+https://github.com/mohapatranirjhala-stack/AI-Resume-Screener
 
 ---
 
