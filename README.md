@@ -128,6 +128,7 @@ My focus is on building systems that go beyond UI and operate at the level of:
 
 ### 🚀 Deployment
 <p>
+<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions"/>
 </p>
