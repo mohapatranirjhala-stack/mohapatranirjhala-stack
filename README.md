@@ -85,20 +85,7 @@ My focus is on building systems that go beyond UI and operate at the level of:
 <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
 </p>
 
-
 ---
-
-### 🧠 AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-189FDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CatBoost-ML-FFCC00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
 
 ### 🤖 AI / GenAI Stack
 
@@ -124,6 +111,18 @@ My focus is on building systems that go beyond UI and operate at the level of:
 
 ---
 
+### 🧠 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-189FDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-ML-FFCC00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+---
 
 ### 🔬 MLOps & Experimentation
 
@@ -131,6 +130,7 @@ My focus is on building systems that go beyond UI and operate at the level of:
 <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/DVC-Data%20Versioning-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
 </p>
+
 
 ### 📱 Mobile Development
 <p>
@@ -164,9 +164,11 @@ My focus is on building systems that go beyond UI and operate at the level of:
 ---
 
 # 🚀 Selected Systems (Production-Level Work)
+
+---
 # ❤️ AI Cardiovascular Risk Assessment — Explainable ML Health Intelligence System
 
-> **A production-oriented machine learning platform that transforms clinical and lifestyle data into cardiovascular risk predictions, explainable insights, personalized guidance, historical tracking, automated reports, and real-time notifications.**
+> *A production-oriented machine learning platform that transforms clinical and lifestyle data into cardiovascular risk predictions, explainable insights, personalized guidance, historical tracking, automated reports, and real-time notifications.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -186,113 +188,27 @@ My focus is on building systems that go beyond UI and operate at the level of:
   <img src="https://img.shields.io/badge/Render-Live%20Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
+### ✨ Key Features
+- 🧠 ML-based cardiovascular risk prediction using Scikit-Learn, XGBoost & CatBoost
+- 📊 Risk probability and **Low/High Risk** classification
+- 🔍 **SHAP-powered explainable AI** to identify factors influencing predictions
+- 💡 Personalized health insights and recommendations
+- 📈 Historical risk tracking and prediction history
+- 📄 Automated health/risk report generation
+- 📧 Email notifications for prediction results
+- 🔄 DVC-based data versioning and MLflow experiment tracking
+- 🐳 Dockerized application with production deployment on Render
+
+### 🛠 Tech Stack
+**Python • Flask • Scikit-Learn • XGBoost • CatBoost • SHAP • Pandas • NumPy • MLflow • DVC • Docker**
+
+### 🌐 Live Demo
+🚀 https://ai-cardiovascular-risk-assessment-webapp.onrender.com/
+
+### 💻 GitHub Repository
+https://github.com/mohapatranirjhala-stack/AI-Cardiovascular-Risk-Assessment
 ---
 
-## 🚀 Why This Project Stands Out
-
-This project goes beyond building a conventional **heart-disease prediction model**.
-
-It converts the complete machine-learning workflow into an application-oriented health intelligence system:
-
-```text
-Clinical & Lifestyle Data
-          ↓
-      Validation
-          ↓
-   Data Preprocessing
-          ↓
-   ML Prediction Engine
-          ↓
-   Risk Probability
-          ↓
-  Risk Classification
-          ↓
- SHAP Explainability
-          ↓
- Health Recommendations
-          ↓
- Reports + History
-          ↓
- Email Notification
-          ↓
-    Cloud Deployment
-
----
-
-## 🎯 Project Objectives
-
-- 🩺 Build an end-to-end machine learning system for cardiovascular risk assessment.
-- 📊 Transform clinical and lifestyle parameters into meaningful risk predictions.
-- 🤖 Integrate trained ML models into a production-oriented Flask web application.
-- 🔍 Improve prediction transparency through explainable AI techniques.
-- 📈 Provide probability-based risk assessment instead of only binary predictions.
-- 📋 Maintain historical assessment records for reviewing previous predictions.
-- 📄 Generate structured assessment reports for users.
-- 📧 Automate notifications after completing an assessment.
-- ☁️ Deploy the complete application as a publicly accessible cloud service.
-- 🧩 Demonstrate practical MLOps concepts including experiment tracking and data versioning.
-
----
-
-## ✨ Key Features
-
-### 🩺 Cardiovascular Risk Prediction
-- Accepts clinical and lifestyle-related health parameters.
-- Performs input validation and preprocessing.
-- Generates cardiovascular risk predictions using trained machine learning models.
-- Displays risk classification with prediction probability and confidence.
-
-### 🔍 Explainable AI
-- Provides interpretable insights into model predictions.
-- Uses SHAP-based feature analysis to understand feature contributions.
-- Helps users understand which input factors influenced the assessment.
-
-### 📊 Risk Assessment Dashboard
-- Clear and user-friendly prediction results.
-- Risk classification and probability visualization.
-- Structured presentation of assessment insights.
-- Personalized preventive guidance based on the assessment result.
-
-### 📜 Risk History
-- Stores previous assessment results.
-- Allows users to review historical predictions.
-- Creates a foundation for monitoring changes across multiple assessments.
-
-### 📄 Automated Reports
-- Generates structured cardiovascular risk assessment reports.
-- Includes prediction results, probability, and relevant assessment information.
-- Converts ML output into a user-friendly report format.
-
-### 📧 Email Notifications
-- Sends automated email notifications after assessment workflows.
-- Connects prediction results with an automated communication layer.
-
-### 🧪 ML & MLOps Workflow
-- Modular data ingestion pipeline.
-- Data transformation and preprocessing.
-- Model training and evaluation.
-- Experiment tracking with MLflow.
-- Dataset/version management with DVC.
-- Support for modern ensemble models including XGBoost and CatBoost.
-
-### 🐳 Deployment Ready
-- Docker-compatible application architecture.
-- Production-oriented Flask configuration.
-- Deployed on Render for public accessibility.
-
----
-
-## 🌐 Live Demo
-
-### 🚀 Try the Application
-
-**[AI Cardiovascular Risk Assessment — Live Demo](https://ai-cardiovascular-risk-assessment-webapp.onrender.com/)**
-
-> ⚠️ **Disclaimer:** This application is an educational and machine-learning demonstration project. Its predictions should not be considered medical diagnoses or a replacement for advice from qualified healthcare professionals.
-
----
-
----
 
 ## 🤖 AI Career Copilot — Career Intelligence System
 
@@ -385,55 +301,29 @@ https://github.com/mohapatranirjhala-stack/AI-Resume-Screener
 
 ---
 
-# 📄 AI Document Intelligence — AI-Powered Document Analysis Platform
 
-An end-to-end AI application that transforms PDF documents into interactive knowledge bases using Retrieval-Augmented Generation (RAG), semantic search, OCR, and Large Language Models.
+---
 
-### 🔹 System Breakdown
-- PDF ingestion and intelligent text extraction
-- AI-powered document summarization
-- Retrieval-Augmented Generation (RAG) pipeline
-- Semantic search using FAISS vector database
-- OCR support for scanned PDF documents
-- Conversational chat with uploaded documents
-- Context-aware question answering using Groq LLM
+## 📱 AI-Powered Expense Tracker — Intelligent Personal Finance System
+
+A Kotlin-based Android finance application that combines **real-time expense tracking with AI-powered financial intelligence**, helping users understand spending patterns, manage budgets, achieve savings goals, and make smarter financial decisions.
+
+### ✨ Key Features
+- 🤖 AI-powered spending insights, predictions, financial reports & conversational assistance
+- 💰 Expense tracking, budgeting and personalized savings goals
+- 📊 Interactive spending analytics and category-wise visualizations
+- 🔥 Firebase Authentication & Cloud Firestore for secure real-time data
+- 📄 Automated PDF financial reports
+- ⚡ Gemini + Groq integration for AI-powered financial intelligence
 
 ### 🛠 Tech Stack
-- Python
-- Streamlit
-- LangChain
-- FAISS
-- Hugging Face Embeddings
-- Groq LLM
-- OpenRouter
-- OCR
+**Kotlin • Android • Firebase • Firestore • Google Gemini • Groq • Retrofit • OkHttp • MPAndroidChart • Coroutines**
 
-### 🚀 Engineering Outcome
-Transforms static PDF documents into:
+### 🔗 Project Links
 
-> AI-powered searchable knowledge systems with contextual question answering.
+💻 **GitHub:** https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android
 
-
-# 📄 AI Document Intelligence
-
-An AI-powered document analysis platform that enables users to summarize documents, chat with PDFs using Retrieval-Augmented Generation (RAG), extract insights, compare documents, and process scanned PDFs using OCR.
-
-## 🌐 Live Demo
-
-**🚀 Live Application:**  
-https://ai-document-intelligence-xykswmtxadkhdupzrkn6ru.streamlit.app/
-
-**💻 GitHub Repository:**  
-https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
-
----
----
-📱 AI-Powered Expense Tracker — Intelligent Finance System
-A Kotlin-based Android finance application that combines real-time expense tracking with AI-powered financial intelligence. It uses Firebase Authentication & Firestore for secure cloud-backed data, Gemini + Groq for spending insights, predictions, AI financial reports and conversational assistance, and MPAndroidChart for interactive analytics.
-Key Features: AI spending insights • Expense prediction • AI financial assistant • Budget management • Savings goals • Spending analytics • PDF reports • Real-time Firestore sync.
-Tech Stack: Kotlin • Android • Firebase • Firestore • Gemini • Groq • Retrofit • OkHttp • MPAndroidChart • Coroutines
-🔗 GitHub: AI-Powered-Expense-Tracker-Android⁠�
-📦 APK: Download Latest APK Release⁠�
+📦 **APK:** https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android/releases/latest
 
 ---
 
