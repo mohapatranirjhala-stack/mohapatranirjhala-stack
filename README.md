@@ -76,14 +76,29 @@ My focus is on building systems that go beyond UI and operate at the level of:
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
+
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Flask-3.x-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
 </p>
 
 ---
+---
+
+### 🧠 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-189FDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-ML-FFCC00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ### 🤖 AI / GenAI Stack
 
@@ -108,6 +123,14 @@ My focus is on building systems that go beyond UI and operate at the level of:
 </p>
 
 ---
+---
+
+### 🔬 MLOps & Experimentation
+
+<p>
+<img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-Data%20Versioning-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
+</p>
 
 ### 📱 Mobile Development
 <p>
@@ -118,24 +141,156 @@ My focus is on building systems that go beyond UI and operate at the level of:
 
 ---
 
-### 🗄️ Database / Cloud
+### ☁️ Cloud & Data
+
 <p>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-Data%20Versioning-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Deployment
+### 🚀 Deployment & DevOps
+
 <p>
-<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Render-Live%20Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
 
 # 🚀 Selected Systems (Production-Level Work)
+# ❤️ AI Cardiovascular Risk Assessment — Explainable ML Health Intelligence System
+
+> **A production-oriented machine learning platform that transforms clinical and lifestyle data into cardiovascular risk predictions, explainable insights, personalized guidance, historical tracking, automated reports, and real-time notifications.**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-3.x-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-189FDD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-Machine%20Learning-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-0194E2?style=for-the-badge&logo=mlflow"/>
+  <img src="https://img.shields.io/badge/DVC-Data%20Versioning-13ADC7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-Live%20Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Why This Project Stands Out
+
+This project goes beyond building a conventional **heart-disease prediction model**.
+
+It converts the complete machine-learning workflow into an application-oriented health intelligence system:
+
+```text
+Clinical & Lifestyle Data
+          ↓
+      Validation
+          ↓
+   Data Preprocessing
+          ↓
+   ML Prediction Engine
+          ↓
+   Risk Probability
+          ↓
+  Risk Classification
+          ↓
+ SHAP Explainability
+          ↓
+ Health Recommendations
+          ↓
+ Reports + History
+          ↓
+ Email Notification
+          ↓
+    Cloud Deployment
+
+---
+
+## 🎯 Project Objectives
+
+- 🩺 Build an end-to-end machine learning system for cardiovascular risk assessment.
+- 📊 Transform clinical and lifestyle parameters into meaningful risk predictions.
+- 🤖 Integrate trained ML models into a production-oriented Flask web application.
+- 🔍 Improve prediction transparency through explainable AI techniques.
+- 📈 Provide probability-based risk assessment instead of only binary predictions.
+- 📋 Maintain historical assessment records for reviewing previous predictions.
+- 📄 Generate structured assessment reports for users.
+- 📧 Automate notifications after completing an assessment.
+- ☁️ Deploy the complete application as a publicly accessible cloud service.
+- 🧩 Demonstrate practical MLOps concepts including experiment tracking and data versioning.
+
+---
+
+## ✨ Key Features
+
+### 🩺 Cardiovascular Risk Prediction
+- Accepts clinical and lifestyle-related health parameters.
+- Performs input validation and preprocessing.
+- Generates cardiovascular risk predictions using trained machine learning models.
+- Displays risk classification with prediction probability and confidence.
+
+### 🔍 Explainable AI
+- Provides interpretable insights into model predictions.
+- Uses SHAP-based feature analysis to understand feature contributions.
+- Helps users understand which input factors influenced the assessment.
+
+### 📊 Risk Assessment Dashboard
+- Clear and user-friendly prediction results.
+- Risk classification and probability visualization.
+- Structured presentation of assessment insights.
+- Personalized preventive guidance based on the assessment result.
+
+### 📜 Risk History
+- Stores previous assessment results.
+- Allows users to review historical predictions.
+- Creates a foundation for monitoring changes across multiple assessments.
+
+### 📄 Automated Reports
+- Generates structured cardiovascular risk assessment reports.
+- Includes prediction results, probability, and relevant assessment information.
+- Converts ML output into a user-friendly report format.
+
+### 📧 Email Notifications
+- Sends automated email notifications after assessment workflows.
+- Connects prediction results with an automated communication layer.
+
+### 🧪 ML & MLOps Workflow
+- Modular data ingestion pipeline.
+- Data transformation and preprocessing.
+- Model training and evaluation.
+- Experiment tracking with MLflow.
+- Dataset/version management with DVC.
+- Support for modern ensemble models including XGBoost and CatBoost.
+
+### 🐳 Deployment Ready
+- Docker-compatible application architecture.
+- Production-oriented Flask configuration.
+- Deployed on Render for public accessibility.
+
+---
+
+## 🌐 Live Demo
+
+### 🚀 Try the Application
+
+**[AI Cardiovascular Risk Assessment — Live Demo](https://ai-cardiovascular-risk-assessment-webapp.onrender.com/)**
+
+> ⚠️ **Disclaimer:** This application is an educational and machine-learning demonstration project. Its predictions should not be considered medical diagnoses or a replacement for advice from qualified healthcare professionals.
+
+---
 
 ---
 
@@ -274,21 +429,99 @@ https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
 ---
 ---
 
-## 📱 Expense Tracker — Financial Intelligence System
+📱 AI-Powered Expense Tracker — Intelligent Personal Finance System
 
-A real-time Android system for tracking financial behavior and spending analytics.
+A production-style Android personal finance application that combines native Android development, cloud infrastructure, financial analytics, and Large Language Models to transform traditional expense tracking into an intelligent financial management system.
 
-### System Breakdown
-- Firebase authentication system
-- Real-time Firestore transaction pipeline
-- Category classification engine
-- Budget tracking constraints system
-- Analytics + visualization engine
-- PDF report generation pipeline
+The application goes beyond recording transactions by providing AI-powered spending insights, predictive analysis, personalized recommendations, savings-goal management, budgeting, financial reporting, and an interactive AI financial assistant.
 
-### Engineering Outcome
-Transforms raw financial data into:
-> behavioral financial intelligence system
+🤖 System Breakdown
+
+- AI-powered expense insights and spending-pattern analysis
+- AI-based spending prediction
+- AI-generated monthly financial reports
+- Interactive AI financial assistant
+- Real-time expense synchronization with Cloud Firestore
+- Firebase Authentication and user session management
+- Category-based expense management
+- Monthly and weekly spending analysis
+- Budget management with usage tracking and warning alerts
+- Savings Goal system with progress tracking and timelines
+- Interactive financial analytics dashboard
+- Category-wise spending visualization
+- Expense trend analysis using charts
+- PDF financial report generation
+- Search and filtering for transactions
+- Secure API-key handling and cloud-backed user data
+
+🧠 AI Intelligence Layer
+
+The application integrates multiple LLM services to provide financial intelligence rather than simply storing transactions:
+
+Groq LLM + Google Gemini
+
+- Spending behaviour analysis
+- Personalized financial insights
+- Future spending prediction
+- Monthly financial report generation
+- Financial recommendations
+- Conversational AI assistance
+
+This creates an architecture where transaction data → analytics → AI reasoning → actionable financial insights.
+
+📊 Financial Intelligence
+
+The analytics layer converts raw transactions into meaningful financial signals:
+
+- Total spending
+- Average expense
+- Highest-spending category
+- Monthly spending summary
+- Category distribution
+- Spending trends
+- Budget utilization
+- Remaining budget
+- Savings progress
+
+🎯 Savings & Budget Management
+
+- Create and manage savings goals
+- Goal timeline and completion tracking
+- Savings progress visualization
+- Remaining amount calculation
+- Editable monthly budgets
+- Budget utilization percentage
+- Remaining budget calculation
+- Budget warning indicators
+
+🛠 Tech Stack
+
+- Kotlin — Native Android development
+- XML + Material Design — Modern Android UI
+- Firebase Authentication — Secure authentication
+- Cloud Firestore — Real-time cloud database
+- Groq LLM — AI financial intelligence
+- Google Gemini — Generative AI capabilities
+- Retrofit + OkHttp — REST API communication
+- MPAndroidChart — Financial data visualization
+- SharedPreferences — Local application storage
+- Kotlin Coroutines — Asynchronous operations
+- RecyclerView — Dynamic transaction lists
+- PDF Generation — Financial report export
+
+🚀 Engineering Outcome
+
+Transforms a conventional expense tracker into:
+
+«an AI-powered personal finance intelligence platform that helps users understand spending behaviour, predict future expenses, manage budgets, achieve savings goals, and interact with their financial data through AI.»
+
+🔗 Project & Release
+
+💻 GitHub Repository:
+https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android
+
+📦 Download Latest Android APK:
+https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android/releases/latest
 
 ---
 
