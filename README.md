@@ -122,7 +122,7 @@ My focus is on building systems that go beyond UI and operate at the level of:
 <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
----
+
 
 ### 🔬 MLOps & Experimentation
 
