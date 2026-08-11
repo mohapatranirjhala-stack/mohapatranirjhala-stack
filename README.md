@@ -85,7 +85,7 @@ My focus is on building systems that go beyond UI and operate at the level of:
 <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
 </p>
 
----
+
 ---
 
 ### 🧠 AI / Machine Learning
@@ -123,7 +123,7 @@ My focus is on building systems that go beyond UI and operate at the level of:
 </p>
 
 ---
----
+
 
 ### 🔬 MLOps & Experimentation
 
@@ -428,100 +428,12 @@ https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
 
 ---
 ---
-
-📱 AI-Powered Expense Tracker — Intelligent Personal Finance System
-
-A production-style Android personal finance application that combines native Android development, cloud infrastructure, financial analytics, and Large Language Models to transform traditional expense tracking into an intelligent financial management system.
-
-The application goes beyond recording transactions by providing AI-powered spending insights, predictive analysis, personalized recommendations, savings-goal management, budgeting, financial reporting, and an interactive AI financial assistant.
-
-🤖 System Breakdown
-
-- AI-powered expense insights and spending-pattern analysis
-- AI-based spending prediction
-- AI-generated monthly financial reports
-- Interactive AI financial assistant
-- Real-time expense synchronization with Cloud Firestore
-- Firebase Authentication and user session management
-- Category-based expense management
-- Monthly and weekly spending analysis
-- Budget management with usage tracking and warning alerts
-- Savings Goal system with progress tracking and timelines
-- Interactive financial analytics dashboard
-- Category-wise spending visualization
-- Expense trend analysis using charts
-- PDF financial report generation
-- Search and filtering for transactions
-- Secure API-key handling and cloud-backed user data
-
-🧠 AI Intelligence Layer
-
-The application integrates multiple LLM services to provide financial intelligence rather than simply storing transactions:
-
-Groq LLM + Google Gemini
-
-- Spending behaviour analysis
-- Personalized financial insights
-- Future spending prediction
-- Monthly financial report generation
-- Financial recommendations
-- Conversational AI assistance
-
-This creates an architecture where transaction data → analytics → AI reasoning → actionable financial insights.
-
-📊 Financial Intelligence
-
-The analytics layer converts raw transactions into meaningful financial signals:
-
-- Total spending
-- Average expense
-- Highest-spending category
-- Monthly spending summary
-- Category distribution
-- Spending trends
-- Budget utilization
-- Remaining budget
-- Savings progress
-
-🎯 Savings & Budget Management
-
-- Create and manage savings goals
-- Goal timeline and completion tracking
-- Savings progress visualization
-- Remaining amount calculation
-- Editable monthly budgets
-- Budget utilization percentage
-- Remaining budget calculation
-- Budget warning indicators
-
-🛠 Tech Stack
-
-- Kotlin — Native Android development
-- XML + Material Design — Modern Android UI
-- Firebase Authentication — Secure authentication
-- Cloud Firestore — Real-time cloud database
-- Groq LLM — AI financial intelligence
-- Google Gemini — Generative AI capabilities
-- Retrofit + OkHttp — REST API communication
-- MPAndroidChart — Financial data visualization
-- SharedPreferences — Local application storage
-- Kotlin Coroutines — Asynchronous operations
-- RecyclerView — Dynamic transaction lists
-- PDF Generation — Financial report export
-
-🚀 Engineering Outcome
-
-Transforms a conventional expense tracker into:
-
-«an AI-powered personal finance intelligence platform that helps users understand spending behaviour, predict future expenses, manage budgets, achieve savings goals, and interact with their financial data through AI.»
-
-🔗 Project & Release
-
-💻 GitHub Repository:
-https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android
-
-📦 Download Latest Android APK:
-https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android/releases/latest
+📱 AI-Powered Expense Tracker — Intelligent Finance System
+A Kotlin-based Android finance application that combines real-time expense tracking with AI-powered financial intelligence. It uses Firebase Authentication & Firestore for secure cloud-backed data, Gemini + Groq for spending insights, predictions, AI financial reports and conversational assistance, and MPAndroidChart for interactive analytics.
+Key Features: AI spending insights • Expense prediction • AI financial assistant • Budget management • Savings goals • Spending analytics • PDF reports • Real-time Firestore sync.
+Tech Stack: Kotlin • Android • Firebase • Firestore • Gemini • Groq • Retrofit • OkHttp • MPAndroidChart • Coroutines
+🔗 GitHub: AI-Powered-Expense-Tracker-Android⁠�
+📦 APK: Download Latest APK Release⁠�
 
 ---
 
