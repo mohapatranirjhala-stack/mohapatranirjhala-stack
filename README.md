@@ -166,7 +166,7 @@ My focus is on building systems that go beyond UI and operate at the level of:
 # 🚀 Selected Systems (Production-Level Work)
 
 ---
-# ❤️ AI Cardiovascular Risk Assessment — Explainable ML Health Intelligence System
+## ❤️ AI Cardiovascular Risk Assessment — Explainable ML Health Intelligence System
 
 > *A production-oriented machine learning platform that transforms clinical and lifestyle data into cardiovascular risk predictions, explainable insights, personalized guidance, historical tracking, automated reports, and real-time notifications.*
 
@@ -232,7 +232,7 @@ https://ai-career-copilot-bsxqxp6pq-nirjhala-mohapatra-s-projects.vercel.app/
 
 
 
-# 📄 AI Resume Screener — AI-Powered Recruitment Intelligence Platform
+## 📄 AI Resume Screener — AI-Powered Recruitment Intelligence Platform
 
 An enterprise-grade AI recruitment platform that automates resume screening, ATS evaluation, candidate ranking, resume optimisation, and recruiter decision-making through a scalable Multi-LLM architecture.
 
@@ -322,18 +322,49 @@ A Kotlin-based Android finance application that combines **real-time expense tra
 📦 **APK:** https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android/releases/latest
 
 ---
+## 📄 AI Document Intelligence — RAG-Powered Document Analysis Platform
+
+An AI-powered document intelligence system that transforms PDFs into searchable knowledge bases, enabling users to extract insights, summarize content, and interact with documents through contextual AI.
+
+### ✨ Key Features
+- 📑 PDF text extraction and document summarization
+- 🔍 Semantic search using **FAISS vector database**
+- 🧠 Retrieval-Augmented Generation (**RAG**) for context-aware answers
+- 💬 Conversational chat with uploaded documents
+- 🖼️ OCR support for scanned/image-based PDFs
+- 📊 Document comparison and intelligent insight extraction
+- ⚡ LLM-powered question answering using **Groq**
+
+### 🛠 Tech Stack
+**Python • Streamlit • LangChain • FAISS • Hugging Face Embeddings • Groq • OpenRouter • OCR**
+
+### 🔗 Project Links
+
+💻 **GitHub:**  
+https://github.com/mohapatranirjhala-stack/AI-Document-Intelligence
+
+🚀 **Live Demo:**  
+https://ai-document-intelligence-xykswmtxadkhdupzrkn6ru.streamlit.app/
+---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohapatranirjhala-stack&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohapatranirjhala-stack&layout=compact&theme=tokyonight" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mohapatranirjhala-stack&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohapatranirjhala-stack&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohapatranirjhala-stack&theme=tokyo-night" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohapatranirjhala-stack&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
