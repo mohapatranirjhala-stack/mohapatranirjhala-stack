@@ -231,70 +231,29 @@ https://ai-career-copilot-bsxqxp6pq-nirjhala-mohapatra-s-projects.vercel.app/
 ---
 
 
-
 ## 📄 AI Resume Screener — AI-Powered Recruitment Intelligence Platform
 
-An enterprise-grade AI recruitment platform that automates resume screening, ATS evaluation, candidate ranking, resume optimisation, and recruiter decision-making through a scalable Multi-LLM architecture.
+An AI recruitment platform that automates **resume screening, ATS evaluation, candidate ranking, skill-gap analysis, resume optimization, and hiring decision support** using a multi-LLM architecture.
 
-### 🔹 System Breakdown
-
-- AI-powered ATS scoring engine
-- Resume parsing and intelligent content extraction
-- Semantic skill matching with Job Description
-- Candidate ranking and leaderboard generation
-- Resume validation engine
-- AI Resume Optimiser
-- AI Resume Rewriter
-- Candidate strengths & weaknesses analysis
-- Resume improvement suggestions
-- Recruiter recommendation engine
-- Hiring decision assistance
-- Multi-LLM workload orchestration (Google Gemini, OpenRouter & Groq)
+### ✨ Key Features
+- 🎯 AI-powered ATS scoring and resume evaluation
+- 📄 Intelligent resume parsing and content extraction
+- 🔍 Semantic skill matching against job descriptions
+- 🏆 Candidate ranking and recruiter leaderboard
+- 📊 Strength, weakness and skill-gap analysis
+- ✍️ AI resume optimization and rewriting
+- 🤖 AI recruiter analysis and hiring recommendations
+- ⚡ Multi-LLM orchestration using **Gemini, OpenRouter & Groq**
 
 ### 🛠 Tech Stack
+**Python • Streamlit • Google Gemini • OpenRouter • Groq • Pandas • NumPy • Plotly • PyMuPDF • pdfplumber • python-docx**
 
-- Python
-- Streamlit
-- Google Gemini
-- OpenRouter
-- Groq
-- Pandas
-- NumPy
-- Plotly
-- PyMuPDF
-- pdfplumber
-- python-docx
-- Prompt Engineering
+### 🔗 Project Links
 
-### 🚀 Engineering Outcome
-
-Transforms traditional resume screening into an AI-powered recruitment intelligence platform capable of analysing, ranking, validating, optimising, and recommending candidates using advanced Large Language Models and ATS-based evaluation.
-
-## ✨ Key Features
-
-- 📄 Upload multiple resumes
-- 🎯 ATS Score Calculation
-- 📊 Recruiter Dashboard
-- 🏆 Candidate Leaderboard
-- 🤖 AI Recruiter Analysis
-- 💬 Resume Feedback Generation
-- 📈 Skill Gap Analysis
-- ✍️ AI Resume Optimiser
-- ✅ Resume Validation
-- 📝 AI Resume Rewriter
-- 📋 Candidate Summary Generation
-- 📄 Overleaf/LaTeX Resume Generation
-- 👔 Hiring Decision Support
-- ⚡ Multi-LLM AI Architecture
-
-## 🌐 Live Demo
-
-**🚀 Live Application**
-
+🚀 **Live Demo:**  
 https://ai-resume-screener-m4hmtfdj4mai8jyygqxhb8.streamlit.app/
 
-**💻 GitHub Repository**
-
+💻 **GitHub:**  
 https://github.com/mohapatranirjhala-stack/AI-Resume-Screener
 
 ---
