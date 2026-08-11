@@ -313,7 +313,7 @@ A Kotlin-based Android finance application that combines **real-time expense tra
 - ⚡ Gemini + Groq integration for AI-powered financial intelligence
 
 ### 🛠 Tech Stack
-**Kotlin • Android • Firebase • Firestore • Google Gemini • Groq • Retrofit • OkHttp • MPAndroidChart • Coroutines**
+**Kotlin • Android • Firebase • Firestore • Google Gemini • Groq • Retrofit • OkHttp • MPAndroidChart • Coroutines** 
 
 ### 🔗 Project Links
 
