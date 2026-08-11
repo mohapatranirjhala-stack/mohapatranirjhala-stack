@@ -231,8 +231,6 @@ https://ai-career-copilot-bsxqxp6pq-nirjhala-mohapatra-s-projects.vercel.app/
 ---
 
 
----
----
 
 # 📄 AI Resume Screener — AI-Powered Recruitment Intelligence Platform
 
@@ -301,8 +299,6 @@ https://github.com/mohapatranirjhala-stack/AI-Resume-Screener
 
 ---
 
-
----
 
 ## 📱 AI-Powered Expense Tracker — Intelligent Personal Finance System
 
