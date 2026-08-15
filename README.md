@@ -278,7 +278,7 @@ A Kotlin-based Android finance application that combines **real-time expense tra
 
 💻 **GitHub:** https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android
 
-📦 **APK:** https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android/releases/latest
+📦 **APK:** https://github.com/mohapatranirjhala-stack/AI-Powered-Expense-Tracker-Android/releases/tag/v1.1.0
 
 ---
 ## 📄 AI Document Intelligence — RAG-Powered Document Analysis Platform
