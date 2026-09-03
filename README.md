@@ -227,7 +227,7 @@ Transforms static resumes into:
 > dynamic career decision systems
 
 🔗 Live:
-https://ai-career-copilot-bsxqxp6pq-nirjhala-mohapatra-s-projects.vercel.app/
+https://ai-career-copilot-rho.vercel.app/
 ---
 
 
